@@ -1,6 +1,6 @@
 # CS50's Introduction to Cybersecurity - Final Project
 Topic: Chick-fil-A Data Breach: A Case Study on Credential Stuffing  
-Author:Sadia Akter  
+Author: Sadia Akter  
 Video Presentation: https://youtu.be/dn7Sxz18e9k?si=6YNNJrB5fiZTajtr
 
 ## Project Overview
