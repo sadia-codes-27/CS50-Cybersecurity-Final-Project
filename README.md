@@ -4,4 +4,4 @@ Author: Sadia Akter
 Video Presentation: https://youtu.be/dn7Sxz18e9k?si=6YNNJrB5fiZTajtr
 
 ## Project Overview
-This project analyzes the October 2026 Chick-fil-A customer account breach caused by credential stuffing attacks. It connects directly to Lecture 0 (Securing Accounts) of Harvard's CS50 Cybersecurity course and highlights practical defenses such as unique passwords, password managers, and Two-Factor Authentication (2FA).
+Completed in October 2026, this project analyzes the Chick-fil-A customer account breach (2023) caused by credential stuffing attacks. It connects directly to Lecture 0 (Securing Accounts) of Harvard's CS50 Cybersecurity course and highlights practical defenses such as unique passwords, password managers, and Two-Factor Authentication (2FA).
